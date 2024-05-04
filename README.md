@@ -4,7 +4,8 @@
 
 <p>Seja bem-vindo ao projeto Fokus, uma ferramenta inovadora projetada para potencializar a sua produtividade e ajudá-lo a mergulhar no que realmente importa. Com um design intuitivo e funcionalidades cuidadosamente elaboradas, o Fokus está aqui para transformar a sua forma de trabalhar e descansar.</p>
 
-![alt text](preview.png)</div>
+![preview](https://github.com/daniel-portela/fokus/assets/110783805/b5688d17-c87e-4568-84d7-5a16b63586c5)
+</div>
 
 
 👨🏼‍💻 <b>Tecnologias utilizadas:</b>
