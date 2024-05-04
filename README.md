@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://fokus.netlify.app/" target="_blank">Projeto Fokus:</a> otimize sua produtividade
+<a href="https://fokusdom.netlify.app/" target="_blank">Projeto Fokus:</a> otimize sua produtividade
 
 <p>Seja bem-vindo ao projeto Fokus, uma ferramenta inovadora projetada para potencializar a sua produtividade e ajudá-lo a mergulhar no que realmente importa. Com um design intuitivo e funcionalidades cuidadosamente elaboradas, o Fokus está aqui para transformar a sua forma de trabalhar e descansar.</p>
 
