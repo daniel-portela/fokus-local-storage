@@ -2,7 +2,7 @@
 
 <a href="https://fokusdom.netlify.app/" target="_blank">Fokus-local-storage:</a> otimize sua produtividade
 
-![alt text](print.png)
+<img width="483" alt="print" src="https://github.com/daniel-portela/fokus-local-storage/assets/110783805/c0e686a7-a9ba-4450-9ec5-b50dc1108ee0">
 
 ![preview](https://github.com/daniel-portela/fokus/assets/110783805/b5688d17-c87e-4568-84d7-5a16b63586c5)
 </div>
